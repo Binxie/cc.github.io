@@ -509,13 +509,13 @@ hr {
 	text-transform: capitalize;
 	border-radius: 30px;
 	cursor: pointer;
-	color: #00B4FF;
+	color: #FFFFFF;
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 600;
 	background-size: 200%;
 	transition: 0.6s;
-	background: rgba(0, 180, 255, 0.1);
+	background: #114FA3;
 	background-position: right
 }
 
